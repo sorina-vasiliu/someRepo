@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2774a00-b537-49a9-bedb-a9bd1ca7fff0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="node-project.iws" />
@@ -175,11 +174,17 @@
       <option name="project" value="LOCAL" />
       <updated>1436051696316</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Am modificat">
+      <created>1436051854974</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1436051854974</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -219,7 +224,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Added new project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new project" />
+    <MESSAGE value="Am modificat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Am modificat" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
